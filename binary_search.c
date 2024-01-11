@@ -5,7 +5,7 @@ int main(){
     for(i=0;i<5;i++){
         scanf("%d",&a[i]);
     }
-    printf("Enter a number:");
+    printf("Enter the key value:");
     scanf("%d",&n);
     left=0;
     right=4;
