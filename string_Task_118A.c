@@ -11,6 +11,6 @@ int main(){
             printf("%c\n",c);
         }
     }
-    printf("\nSo, This string has total %d consonant\n",count);
+    printf("\nSo, This string has total %d consonants.\n",count);
     return 0;
 }
