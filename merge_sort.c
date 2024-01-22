@@ -10,7 +10,6 @@ void merge_sort(int arr[],int p,int r){
 void merge(int arr[],int p,int mid,int r){
     int n1=mid-p+1;
     int n2=r-mid;
-
     int L[n1+1],R[n2+1],i,j;
     for(i=0;i<n1;i++){
         L[i]=arr[p+i];
@@ -50,10 +49,6 @@ int main(){
     }
     getch();
 }
-
-
-
-
 
 
 /*#include<stdio.h>
