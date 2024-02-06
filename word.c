@@ -1,4 +1,4 @@
-//if the number of uppercase letters is greater than then the number of lowercase letter then it converts the string into uppercase letter and vice varca
+//if the number of uppercase letters is greater than the number of lowercase letter then it will convert the all characters of the string into uppercase letter and vice varca
 #include<stdio.h>
 int main(){
     char x[100],s[100];
