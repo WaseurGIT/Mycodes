@@ -29,5 +29,5 @@ int main(){
     else{
         printf("DDD nao cadastrado\n");
     }
-    return 0;
+    getch();
 }
